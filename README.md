@@ -1,5 +1,5 @@
 <!-- Header Section -->
-<h1 align="center">Hi 👋, I'm Kazi Tanvir Akter</h1>
+<h1 align="center">Hi there 👋, I'm Kazi Tanvir Akter</h1>
 <h3 align="center">Software Engineer | AI Researcher | Web Developer</h3>
 
 <p align="center">
@@ -12,16 +12,12 @@
   <img src="https://komarev.com/ghpvc/?username=KaziTanvir786&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
----
-
 ### 👨‍💻 Professional Overview
 
 - 🏫 **Computer Lab Instructor** at North South University (NSU), facilitating practical learning and technical education.
 - 🔬 **AI Researcher & Solutions Developer**, building data-driven models and engineering applied AI tools for real-world problems.
 - 💻 **Software & Web Developer**, architecting and deploying scalable systems and robust, modern web applications.
 - 🌍 **Freelance Professional**, delivering custom technical projects and specialized software solutions for clients across global marketplaces.
-
----
 
 ### 🛠️ Tech Stack & Skills
 
@@ -46,16 +42,12 @@
   </a>
 </p>
 
----
-
 ### 📊 GitHub Stats & Streaks
 
 <br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaziTanvir786&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
 
 ### 📫 Connect with Me
 <p align="center">
