@@ -35,7 +35,7 @@
 <p align="center">
   <strong>Frontend & Web Technologies</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,nestjs,php,postgresql,mysql,mongodb,supabase,firebase,flutter,bootstrap,sass,vite,vercel,arduino,claude&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,expressjs,nestjs,php,postgresql,mysql,mongodb,supabase,firebase,flutter,bootstrap,sass,vite,vercel,arduino&perline=10" />
   </a>
 </p>
 
