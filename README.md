@@ -28,21 +28,21 @@
 <p align="center">
   <strong>Programming Languages & Data Science</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,tensorflow,pytorch,pandas,numpy,matlab&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,dart,tensorflow,pytorch,matlab&perline=10" />
   </a>
 </p>
 
 <p align="center">
   <strong>Frontend & Web Technologies</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,bootstrap,sass,vite,vercel&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs,nestjs,php,postgresql,mysql,mongodb,supabase,firebase,flutter,reactnative,bootstrap,sass,vite,vercel&perline=10" />
   </a>
 </p>
 
 <p align="center">
   <strong>Tools, Hardware & Environments</strong><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,arduino,raspberrypi,docker,figma,postman&perline=10" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,ubuntu,aws,arduino,raspberrypi,docker,figma,postman&perline=10" />
   </a>
 </p>
 
