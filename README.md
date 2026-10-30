@@ -12,14 +12,14 @@
   <img src="https://komarev.com/ghpvc/?username=KaziTanvir786&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
-### 👨‍💻 Professional Overview
+### Professional Overview
 
-- 🏫 **Computer Lab Instructor** at North South University (NSU), facilitating practical learning and technical education.
-- 🔬 **AI Researcher & Solutions Developer**, building data-driven models and engineering applied AI tools for real-world problems.
-- 💻 **Software & Web Developer**, architecting and deploying scalable systems and robust, modern web applications.
-- 🌍 **Freelance Professional**, delivering custom technical projects and specialized software solutions for clients across global marketplaces.
+- **Computer Lab Instructor** at North South University (NSU), facilitating practical learning and technical education.
+- **AI Researcher & Solutions Developer**, building data-driven models and engineering applied AI tools for real-world problems.
+- **Software & Web Developer**, architecting and deploying scalable systems and robust, modern web applications.
+- **Freelance Professional**, delivering custom technical projects and specialized software solutions for clients across global marketplaces.
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 <p align="center">
   <strong>Programming Languages & Data Science</strong><br>
@@ -42,14 +42,14 @@
   </a>
 </p>
 
-### 📊 GitHub Stats & Streaks
+### GitHub Stats & Streaks
 
 <br>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KaziTanvir786&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 📫 Connect with Me
+### Connect with Me
 <p align="center">
   <a href="mailto:kazitanvirakter@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
